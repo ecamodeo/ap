@@ -1,5 +1,5 @@
-<!-- # [CS50 AP]({{ "/" | relative_url }}) -->
 ![]({{"/assets/images/150th.png" | relative_url }})
+# [CS50 AP]({{ "/" | relative_url }})
 
-Canisius High School\\
+<p style="text-align: center;">Canisius High School</p\\
 2019–2020
