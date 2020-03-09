@@ -2,6 +2,7 @@
 
 * [CS50 IDE](https://ide.cs50.io/)
 * [CS50 Programmer's Manual](https://man.cs50.io/)
+* [Schoology](https://schoology.canisiushigh.org)
 
 ***
 
