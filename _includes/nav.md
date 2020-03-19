@@ -13,4 +13,5 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
+* [AP CSP Syllabus]({{"/syllabus" | relative_url }})
+* [CS12 Syllabus]({{"/syllabus" | relative_url }})
